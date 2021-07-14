@@ -4,29 +4,29 @@
       "titulo": "Conceitos básicos",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Como funciona o sistema financeiro",
+        "url": "https://www.youtube.com/watch?v=mINrILM4LeM"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "QUER COMEÇAR A ORGANIZAR SUA VIDA FINANCEIRA? NATH FINANÇAS TE AJUDA!!",
+          "url": "https://www.youtube.com/watch?v=wTnSMw4NtXAw"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "TESOURO SELIC NA PRÁTICA: INVESTI 105 REAIS e já sei quanto vou ganhar acima da poupança",
+          "url": "https://www.youtube.com/watch?v=F2E0ibZtCak"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "O QUE É TAXA SELIC? | NATH FINANÇAS",
+          "url": "https://www.youtube.com/watch?v=NGTBZ6BeCK8"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "TUDO SOBRE RENDA FIXA! LCI, LCA, CDB e LC (ISSO NINGUÉM TE CONTA)",
+          "url": "https://www.youtube.com/watch?v=ysm9ZJ6O67w"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "PASSO A PASSO PARA COMPRAR BITCOIN! Aprenda NA PRÁTICA em 5 MINUTOS!",
+          "url": "https://www.youtube.com/watch?v=Ux5q9S5XH4w"
         }   
       ]
     },
@@ -34,29 +34,29 @@
       "titulo": "Tesouro direto",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "TUDO SOBRE TESOURO DIRETO! De 30 reais a UM MILHÃO!",
+        "url": "https://www.youtube.com/watch?v=FrfbwyTl1so"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "O QUE É O TESOURO DIRETO? COMO FUNCIONA? | NATH FINANÇAS",
+          "url": "https://www.youtube.com/watch?v=yV7h7VANols"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "TESOURO DIRETO AINDA VALE A PENA? | NATH FINANÇAS",
+          "url": "https://www.youtube.com/watch?v=KFK62MqRQJ4"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "TESOURO DIRETO: 5 PASSOS PRÁTICOS pra investir todo mês!",
+          "url": "https://www.youtube.com/watch?v=71WEvV8s46k"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "O MELHOR TESOURO DIRETO PRA VOCÊ! Passo a passo prático pra começar a investir com POUCA GRANA!",
+          "url": "https://www.youtube.com/watch?v=sN040Qb0fuM&t=1s"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "TESOURO DIRETO: Descubra o seu perfil e PARE DE PERDER DINHEIRO!",
+          "url": "https://www.youtube.com/watch?v=68DI1s-5pGg"
         }
       ]
     },
@@ -68,21 +68,21 @@
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
+         {
+          "titulo": "QUAL A DIFERENÇA ENTRE CDI E CDB?",
+          "url": "https://www.youtube.com/watch?v=qH4-WvDiZbs"
+        }, 
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "TOP 4 INVESTIMENTOS MELHORES QUE A POUPANÇA! CDB, LCI, LCA E… Isso ninguém te conta",
+          "url": "https://www.youtube.com/watch?v=UQxu26FJqKQ"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "O QUE É CDB: rendimento, como funciona e por que investir (2021) - Gustavo Cerbasi",
+          "url": "https://www.youtube.com/watch?v=moErZPk_RFw"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Como investir em CDB? Saiba tudo sobre esse INVESTIMENTO!",
+          "url": "https://www.youtube.com/watch?v=7TUWWN6AIeY"
         }
       ]
     },
@@ -91,50 +91,20 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "DEBÊNTURES QUE ENRIQUECEM! | O básico pra começar a investir e ganhar dinheiro! (EU TENHO!)",
+          "url": "https://www.youtube.com/watch?v=uCq8k50l4Ek"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "O que são DEBÊNTURES?! Aprenda na PRÁTICA!",
+          "url": "https://www.youtube.com/watch?v=PzMZt0Boo6c"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "DEBÊNTURE: O Investimento mais Rentável do Brasil? Entenda O que é!",
+          "url": "https://www.youtube.com/watch?v=aPB2USPJc1U"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Mito ou Verdade: debêntures",
+          "url": "https://www.youtube.com/watch?v=e6zb-d3sUEk"
         }
       ]
     },
@@ -142,30 +112,26 @@
       "titulo": "Ações",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "AÇÕES: O QUE SÃO AÇÕES? |FINANÇAS DE A a Z EP. 01 feat. Matheus Brito",
+        "url": "https://www.youtube.com/watch?v=IBAqRvQpMfY"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "COMO GANHAR DINHEIRO COM AÇÕES? APENAS PARA INICIANTES #Nathação",
+          "url": "https://www.youtube.com/watch?v=0xsFhL9sXxo"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "COMO FIZ MINHA CARTEIRA DE AÇÕES RENDER MUITO DINHEIRO! - #TÁTRANQUILOTÁVARIÁVEL",
+          "url": "https://www.youtube.com/watch?v=2wN97HIILAo"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "GUIA BÁSICO PRA INVESTIR EM AÇÕES: TUDO que você PRECISA SABER antes de investir em AÇÕES!",
+          "url": "https://www.youtube.com/watch?v=yHuNhkntc-I"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "AÇÕES PARA INICIANTES: 5 PASSOS PRÁTICOS PRA INVESTIR AGORA (e com pouco dinheiro)!",
+          "url": "https://www.youtube.com/watch?v=lZBCB4umres"
         },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
       ]
     }
   ]
