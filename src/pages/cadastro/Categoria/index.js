@@ -83,8 +83,8 @@ function CadastroCategoria() {
       )}
 
       <ul>
-        {categorias.map((categoria, index) => (
-          <li key={`${categoria}${index}`}>{categoria.nome}</li>
+        {categorias.map((categoria) => (
+          <li key={`${categoria.nome}`}>{categoria.nome}</li>
         ))}
       </ul>
 
