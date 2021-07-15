@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription="Nesse vídeo a Nath desvenda alguns termos técnicos que a gente escuta por aí e parecem um bicho de 7 cabeças, mas não são."
+        videoDescription="Em menos de 10 minutos você vai entender (MESMO) o que é renda fixa, qual a diferença entre uma renda fixa boa e uma renda fixa ruim"
       />
 
       {dadosIniciais.categorias.map((categoria) => (
