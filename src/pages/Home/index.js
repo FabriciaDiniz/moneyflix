@@ -11,8 +11,8 @@ function Home() {
       <Menu />
 
       <BannerMain
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
-        url={dadosIniciais.categorias[0].videos[0].url}
+        videoTitle={dadosIniciais.categorias[0].link_extra.text}
+        url={dadosIniciais.categorias[0].link_extra.url}
         videoDescription="Em menos de 10 minutos você vai entender (MESMO) o que é renda fixa, qual a diferença entre uma renda fixa boa e uma renda fixa ruim"
       />
 
