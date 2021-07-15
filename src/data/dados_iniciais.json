@@ -63,10 +63,6 @@
     {
       "titulo": "CBD",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
          {
           "titulo": "QUAL A DIFERENÇA ENTRE CDI E CDB?",
@@ -131,7 +127,7 @@
         {
           "titulo": "AÇÕES PARA INICIANTES: 5 PASSOS PRÁTICOS PRA INVESTIR AGORA (e com pouco dinheiro)!",
           "url": "https://www.youtube.com/watch?v=lZBCB4umres"
-        },
+        }
       ]
     }
   ]
